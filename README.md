@@ -1,16 +1,15 @@
-## Hi there 👋
+### Технологии и инструменты:
+![C](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
 
-<!--
-**Wekyot/Wekyot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Моя статистика:
+![GitHub Stats](https://vercel.app)
 
-Here are some ideas to get you started:
+![Top Langs](https://vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Привет, я [Wekyot], но хочу стать [Большая шишка]! 👋
+
+- 🚀 Учусь программировать на С
+- 📚 Сейчас решаю контесты первого курса в репозитории [programming-contests-1-year]
+- 🎯 Цель: разобраться в алгоритмах и структурах данных
